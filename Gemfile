@@ -7,3 +7,6 @@ gem 'sinatra'
 gem 'puma'
 gem 'sequel'
 gem 'sequel_pg'
+
+# development
+gem 'dotenv'
