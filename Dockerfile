@@ -8,6 +8,9 @@ WORKDIR /app
 
 RUN apk add --no-cache build-base
 
+## PostgreSQL client library. Dependency for pg gem.
+RUN apk add --no-cache libpq-dev
+
 RUN gem install bundler:2.3.3
 
 RUN bundle install
