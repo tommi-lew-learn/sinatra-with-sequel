@@ -1,9 +1,9 @@
 # Sinatra with Sequel
 This was created as part of a Google Cloud Platform (GCP) learning project. The goal was to deploy a simple web application with a database. And along the way, appreciate the differences between AWS and GCP.
 
-## [Ruby Sinatra app](http://sinatrarb.com/)
+## [Sinatra](http://sinatrarb.com/)
 
-Simple Ruby web application built using the Sinatra web framework. Sinatra is a lighter Ruby web framework compared to Rails.
+Ruby web application built using the Sinatra framework. Sinatra is a lighter web framework compared to [Rails](https://rubyonrails.org/).
 
 ## [Sequel](https://github.com/jeremyevans/sequel)
 
